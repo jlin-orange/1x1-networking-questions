@@ -8,6 +8,7 @@ Categories: [Starter / Background](##starter--background), [Industry Deep Dive](
 - How does your day-to-day look?
 - What is your workflow like (where does your work come in, who views your work, etc.)?
 - What are the pain points of your role?
+- What aspects of your job do you enjoy? (Alternatively, what are the pleasure points of your job?)
 - Who or what teams do you work closely with?
 
 ## Industry Deep Dive
